@@ -3,7 +3,7 @@
 ### [Demo Video](https://drive.google.com/file/d/17eZBgUDK1DZ4LuyB96WZPyytZiaMd2u8/view?usp=sharing)
 
 ### Project Background
-SmartView Systems started as a final project as part of BU's EC444 Smart and Connected Systems. After the completion of the class. Noah and Benji continued working on the project partnering with the BU Animal Science Center and Participating in the New Venture Competition. 
+SmartView Systems started as a final project as part of BU's EC444 Smart and Connected Systems, After the completion of the class. Noah and Benji continued working on the project partnering with the BU Animal Science Center and Participating in the New Venture Competition. 
 
 ### Project Goal
 Smartview Systems aims to empower our users with the information necessary to monitor their environments. We envision a future where companies can monitor the instruments, tools, machinery, and workspaces 24 hours a day, seven days a week. 
